@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Burak Ertaş</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ErtasBurak&label=Profile%20views&color=00a8e0&style=flat" alt="ErtasBurak" /> </p>
+//<p align="center"> <img src="https://komarev.com/ghpvc/?username=ErtasBurak&label=Profile%20views&color=00a8e0&style=flat" alt="ErtasBurak" /> </p>
 
 - 🌱 I’m currently learning **Swift(UIKit),** **Flutter,** **ML.**
 
