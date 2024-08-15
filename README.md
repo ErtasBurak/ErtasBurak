@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Burak Ertaş</h1>
 
-- 🌱 I’m currently learning **Swift(UIKit),** **Flutter,** **ML.**
+- 🌱 I’m currently learning **Swift,** **Flutter,** **ML.**
 
 - 📫 How to reach me **burakertas23@hotmail.com**
 
